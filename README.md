@@ -118,7 +118,7 @@ TeaAndBooks/
 
 ```bash
 git clone https://github.com/your-username/entwined.git
-cd entwined
+cd TeaAndBooks
 ```
 
 ---
